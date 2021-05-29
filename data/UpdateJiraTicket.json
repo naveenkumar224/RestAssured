@@ -1,0 +1,6 @@
+{
+    "fields": {
+        "description": "Updated the Bug Description from the RestAssured",
+        "summary": "Updated the JIRA Summary using the API as a Part of the API hit from the Rest Assured"
+    }
+}

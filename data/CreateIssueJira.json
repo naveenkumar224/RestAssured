@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "RA"
+        },
+        "summary": "create a Bug in RA project using RestAssured",
+        "description": "Creating of an Bug using project keys and issue type names using the REST API from the RestAssured using the File",
+        "issuetype": {
+            "name": "Bug"
+        }
+    }
+}
